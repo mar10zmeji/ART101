@@ -1,8 +1,60 @@
-html {background-color: antiquewhite;}
-ol {color:saddlebrown; text-indent: 5%;}
+html {
+    background-color: antiquewhite;
+}
 
-h1 {background-color: rgb(97, 119, 99) ; color: rgb(39, 48, 44); font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; border-color: black; border-width: 12px; border-style: ridge;}
-img {display:block; margin: auto; border-style: ridge; border-width: 20px;}
-body {background-color: bisque; font-family: Arial, Helvetica, sans-serif;}
-p {display: block; padding:50px; background-color: rgb(255, 185, 159); align-content: center; margin-left: 100px; margin-right: 100px;}
-#panImg {display: block;}
+ol {
+    color: saddlebrown;
+    text-indent: 5%;
+}
+
+h1 {
+    background-color: rgb(97, 119, 99);
+    color: rgb(39, 48, 44);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-color: black;
+    border-width: 12px;
+    border-style: ridge;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-style: ridge;
+    border-width: 20px;
+}
+
+body {
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    display: block;
+    padding: 50px;
+    background-color: rgb(255, 185, 159);
+    align-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#panImg {
+    display: block;
+}
+
+.yeahman {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#main {
+    background-color: blanchedalmond;
+}
+
+#horiTest {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 20px;
+}
+
+#horiTest img {
+    width: 100px;
+}
