@@ -22,10 +22,12 @@ html {
     background-color: rgb(219, 187, 145);
 }
 
-#page {max-width: 900px;
+#page {
+    max-width: 900px;
     margin: 0 auto 0 auto;
     background: rgb(189, 144, 89);
-    padding: 30px;}
+    padding: 30px;
+}
 
 .top-sec {
     display: flex;
@@ -48,6 +50,7 @@ html {
     font-size: 120%;
     line-height: 1.5;
 }
+
 .profile {
     text-align: center;
     flex: 1;
