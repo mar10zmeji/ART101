@@ -20,7 +20,7 @@ p {
 #maind {display: flex;
 gap: 20px;}
 
-#maind img {height: 500px; width: auto;}
+#maind img {height: 50vh; width: auto;}
 
 #endman {
     width: 500px;
