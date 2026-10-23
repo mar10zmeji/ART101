@@ -10,6 +10,11 @@ $("#nbutton").click(function () {
     else 
     $("#nbutton").html(Text = "scientists reveal the " + counter + " " + colors[counter-1]);
     $("body").css("background-color", colors[counter-1] );
+
+// hi
+
+
+
 }
 );
 
