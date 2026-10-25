@@ -33,10 +33,10 @@ gap: 20px;}
 
 #bod {display: block; padding: 100px ;}
 
-#envOutput {display: block; margin-left: 45%; margin-right: 45%; background-color: black; padding: 50px;
+#envIn {display: block; margin-left: 45%; margin-right: 45%; background-color: black; padding: 50px;
 }
 
 
-#envIn button {background-color: black; color: rgb(218, 199, 151); border-radius: 10%;}
-#envIn button:hover {background-color:indigo; color: rgb(218, 199, 151);}
+#envIn button {background-color: black; color: rgb(218, 199, 151); border-radius: 10%; padding: 15px;}
+#envIn button:hover {background-color:indigo;}
 #envOut {display: flex; max-width: 100vw;}
