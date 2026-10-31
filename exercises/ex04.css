@@ -2,3 +2,17 @@ img {
     display: block;
     width:50vw}
 button {padding: 50px;}
+
+.color-circle {
+   display: inline-block;
+   width: 36px;
+   height: 36px;
+   margin-right: 8px;
+   border: 2px solid black;
+   border-radius: 50%;
+   cursor: pointer;
+}
+
+#green  { background-color: green; }
+#orange { background-color: orange; }
+#pink   { background-color: pink; }

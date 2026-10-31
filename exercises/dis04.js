@@ -77,5 +77,5 @@ $("#toyBtn").click(function() {
     let toyCata = ["ball", "bone", "squeaky", "idk"]
     let rn = Math.round((Math.random*3))
     kaya.toys.push(toyCata[rn])
-    $("#toys").html("Kaya has "+kaya.toys.length+" toys! Latest one is " + kaya.toys[(kaya.toys.length-1)])
+    $("#toys").html("Kaya has "+kaya.toys.length+" toys! Latest one is " + kaya.toys[kaya.toys.length-1])
 });
